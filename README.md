@@ -10,6 +10,13 @@
 
 ---
 
+## 🔗 Official Links & Demo
+* ⚡ **Watch the Demo Video:** [YouTube Demo (Full System Walkthrough)](https://www.youtube.com/watch?v=NQUwLg6v2xk)
+* ⚡ **Official Product Site:** [METU PCare Website](https://senior.ceng.metu.edu.tr/2024/PCare/)
+* ⚡ **High-Resolution Poster:** [Download PDF Poster](https://senior.ceng.metu.edu.tr/2024/mainpage/logos/PCare-poster.pdf)
+
+---
+
 ## 📸 System Overview (Demoday Poster)
 ![PCare Poster](./poster.png)
 

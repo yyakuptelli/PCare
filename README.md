@@ -69,4 +69,3 @@ This product was built not just as a concept, but as a fully tested system encom
 *   **Unit & Integration Tests:** Ensuring seamless data flows between the keyboard tracker and Sentiment Analysis module.
 *   **System Testing (Incognito validation):** Validating absolute invisibility across various Android OS versions.
 
-🌟 *Recognized as the pinnacle of undergraduate software engineering amongst the 2024 graduating class at Middle East Technical University (METU).*
